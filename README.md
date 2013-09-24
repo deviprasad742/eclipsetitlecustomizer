@@ -12,15 +12,14 @@ The default format used is [$installName] - ($wsLocation) where the entries star
 be replaced progrmatically. 
 
 
-Supported keys are 
-1.$installName-Name of the installation folder
-2.$wsLocation - location of workspace
-3.$wsName - name of workspace
+Supported Keys: 
+1.$installName-Name of the installation folder \n
+2.$wsLocation - location of workspace \n
+3.$wsName - name of workspace \n
 
 
-Sampel Formats
-
-Eclipse_Work - $wsLocation
-Eclipse_Android - $wsName
+Sample Formats: 
+Eclipse_Work - $wsLocation \n
+Eclipse_Android - $wsName \n
 
 
