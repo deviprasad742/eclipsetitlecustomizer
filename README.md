@@ -13,9 +13,9 @@ be replaced progrmatically.
 
 
 Supported keys are 
-#1.$installName-Name of the installation folder
-#2.$wsLocation - location of workspace
-#3.$wsName - name of workspace
+1.$installName-Name of the installation folder
+2.$wsLocation - location of workspace
+3.$wsName - name of workspace
 
 
 Sampel Formats
