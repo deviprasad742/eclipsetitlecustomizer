@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/eclipsetitlecustomizerfeature_1.0.0.201309242231.jar" id="eclipsetitlecustomizerfeature" version="1.0.0.201309242231">
+      <category name="utilities"/>
+   </feature>
+   <category-def name="utilities" label="Eclipse Utilities">
+      <description>
+         This plugin allows users to customize eclipse window titles. Very useful when working with multiple eclipse instances.
+      </description>
+   </category-def>
+</site>
